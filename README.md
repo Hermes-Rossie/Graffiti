@@ -1,5 +1,5 @@
-# ARRRR
-Start of the ios app project of SID, ARYA, JACOB, and WINFRED. 
+# GRAFFITI
+Start of the AR graffiti app project of SID, ARYA, JACOB, and WINFRED. 
 
 # SET UP
 Get Started with AR Foundation in Unity - Beginner Friendly Tutorial 2023: https://www.youtube.com/watch?v=FWyTf3USDCQ&t=603s
